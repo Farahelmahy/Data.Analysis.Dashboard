@@ -19,7 +19,7 @@ The Vrinda Store wants to create an annual sales report for 2022, so that , the 
 
 - Dashboard Interaction <a herf="https://github.com/Farahelmahy/Data.Analysis.Dashboard/blob/main/Dashboard.img.png">viewDashboard</a>
 
-##Process
+## Process
 -Verified data for missing values and anomalies, and resolved them.
 -Ensured data remained consistent and clean across all formats and values.
 -Created PivotTables based on the key analytical questions.
